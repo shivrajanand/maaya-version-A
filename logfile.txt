@@ -1,0 +1,394 @@
+
+ ***************************************************************************** 
+Starting: 06/12/2021 23:06:04
+ ***************************************************************************** 
+Starting: 06/12/2021 23:06:53
+ ***************************************************************************** 
+Starting: 06/12/2021 23:07:23
+ ***************************************************************************** 
+Starting: 06/12/2021 23:08:57
+ ***************************************************************************** 
+Starting: 06/12/2021 23:11:07
+ ***************************************************************************** 
+Starting: 06/12/2021 23:21:48
+User: introduce yourself
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 06/12/2021 23:21:59
+ ***************************************************************************** 
+Starting: 06/12/2021 23:23:03
+User: introduce yourself
+ ***************************************************************************** 
+Starting: 06/12/2021 23:24:01
+User: introduce yourself
+ ***************************************************************************** 
+Starting: 06/12/2021 23:27:34
+User: goodbye maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 06/12/2021 23:27:42
+ ***************************************************************************** 
+Starting: 06/12/2021 23:50:34
+User: introduce yourself
+M.A.A.Y.A: Introduction
+User: vate maiya
+User: theek hai quit maiya
+User: goodbye maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 06/12/2021 23:51:16
+
+
+
+
+ ***************************************************************************** 
+Starting: 07/12/2021 00:40:13
+User: introduce yourself
+M.A.A.Y.A: Introduction
+User: good morning
+
+
+
+
+ ***************************************************************************** 
+Starting: 07/12/2021 00:43:01
+User: bye maya
+User: quote by maya
+User: goodbye maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 07/12/2021 00:43:18
+
+
+
+
+ ***************************************************************************** 
+Starting: 07/12/2021 00:43:25
+User: introduce yourself
+M.A.A.Y.A: Introduction
+
+
+
+
+ ***************************************************************************** 
+Starting: 08/12/2021 12:19:30
+User: introduce yourself
+M.A.A.Y.A: Introduction
+User: goodbye maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 08/12/2021 12:20:05
+
+
+
+
+ ***************************************************************************** 
+Starting: 08/12/2021 13:05:47
+User: introduce yourself
+M.A.A.Y.A: Introduction
+User: goodbye maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 08/12/2021 13:06:21
+
+
+
+
+ ***************************************************************************** 
+Starting: 10/12/2021 15:41:07
+User: search nikola tesla from wikipedia
+User: search vicky from wikipedia nikola tesla
+User: search from wikipedia nikola tesla
+User: shut down my
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 10/12/2021 15:42:40
+
+
+
+
+ ***************************************************************************** 
+Starting: 10/12/2021 15:46:06
+User: search internet about gmail
+User: search internet about mahabharat
+User: search internet about kendriya vidyalaya
+User: search internet about patna
+User: search internet about me
+User: shut down my
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 10/12/2021 15:47:13
+
+
+
+
+ ***************************************************************************** 
+Starting: 10/12/2021 16:19:20
+User: mahabharat wikipedia
+User: none
+User: wikipedia mahabharat
+User: search from wikipedia mahabharat
+
+
+
+
+ ***************************************************************************** 
+Starting: 10/12/2021 16:20:28
+User: search from wikipedia mahabharat
+
+
+
+
+ ***************************************************************************** 
+Starting: 10/12/2021 16:20:52
+User: search from wikipedia albert einstein
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 10/12/2021 16:21:37
+
+
+
+
+ ***************************************************************************** 
+Starting: 10/12/2021 16:38:29
+User: search internet about how to change theme in notepad plus plus
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 10/12/2021 16:38:51
+
+
+
+
+ ***************************************************************************** 
+Starting: 10/12/2021 16:41:38
+User: search on wikipedia sorry sorry sorry
+User: search internet how to enable word wrap in notepad plus plus
+User: shut down my
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 10/12/2021 16:42:14
+
+
+
+
+ ***************************************************************************** 
+Starting: 10/12/2021 17:06:57
+User: open youtube
+User: open gmail
+User: open gmail
+User: maya
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 10/12/2021 17:07:31
+
+
+
+
+ ***************************************************************************** 
+Starting: 10/12/2021 17:09:45
+User: open gmail
+User: open whatsapp web
+User: open youtube
+User: open stack overflow
+User: open stack overflow
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 10/12/2021 17:10:28
+
+
+
+
+ ***************************************************************************** 
+Starting: 10/12/2021 17:12:12
+User: open gmail
+User: none
+User: don maya
+User: none
+User: on maya
+User: shutdown maniya
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 10/12/2021 17:13:04
+
+
+
+
+ ***************************************************************************** 
+Starting: 10/12/2021 17:13:26
+User: open gmail
+User: none
+User: kaun maiya
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 10/12/2021 17:13:52
+
+
+
+
+ ***************************************************************************** 
+Starting: 10/12/2021 21:10:38
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 10/12/2021 21:10:47
+
+
+
+
+ ***************************************************************************** 
+Starting: 10/12/2021 21:21:03
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 10/12/2021 21:21:12
+
+
+
+
+ ***************************************************************************** 
+Starting: 10/12/2021 21:24:21
+User: shut down my
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 10/12/2021 21:24:36
+
+
+
+
+ ***************************************************************************** 
+Starting: 10/12/2021 22:31:15
+User: open youtube
+User: play music
+User: none
+User: play music
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 10/12/2021 22:31:50
+
+
+
+
+ ***************************************************************************** 
+Starting: 10/12/2021 22:58:43
+User: play music
+User: none
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 10/12/2021 22:59:17
+
+
+
+
+ ***************************************************************************** 
+Starting: 11/12/2021 14:49:34
+User: play music
+User: none
+User: maya
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 11/12/2021 14:50:05
+
+
+
+
+ ***************************************************************************** 
+Starting: 11/12/2021 14:51:04
+User: play music
+User: introduce yourself
+M.A.A.Y.A: Introduction
+User: shut down my
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 11/12/2021 14:51:54
+
+
+
+
+ ***************************************************************************** 
+Starting: 11/12/2021 15:32:23
+User: search on the internet mahabharat
+User: pet ka command hamen bhul gaye
+User: internet mahabharat
+User: search internet mahabharat
+User: mahabharat apne aap play music
+User: gana bhajan durga
+User: a se whatsapp kholna open whatsapp web
+User: whatsapp kholie
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 11/12/2021 15:33:34
+
+
+
+
+ ***************************************************************************** 
+Starting: 11/12/2021 20:09:18
+User: play music
+User: none
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 11/12/2021 20:09:41
+
+
+
+
+ ***************************************************************************** 
+Starting: 11/12/2021 20:10:18
+User: open youtube
+User: play music
+User: shut down my
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 11/12/2021 20:10:53
+
+
+
+
+ ***************************************************************************** 
+Starting: 11/12/2021 20:15:22
+User: shut down my home
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 11/12/2021 20:15:35
+
+
+
+
+ ***************************************************************************** 
+Starting: 11/12/2021 20:19:24
+User: search from wikipedia artificial intelligence
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 11/12/2021 20:20:06
+
+
+
+
+ ***************************************************************************** 
+Starting: 11/12/2021 20:30:34
+User: introduce yourself
+M.A.A.Y.A: Introduction
+User: search from wikipedia artificial intelligence
+User: search internet general bipin rawat
+User: play music
+User: none
+User: open youtube
+User: open stack overflow
+User: open whatsapp web
+User: none
+User: open gmail
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 11/12/2021 20:32:40
+
+
+
+
+ ***************************************************************************** 
+Starting: 11/12/2021 22:55:58
+User: introduce yourself
+M.A.A.Y.A: Introduction
+User: search from wikipedia artificial intelligence
+User: search internet general bipin rawat
+User: play music
+User: none
+User: youtube
+User: open youtube
+User: open stack overflow
+User: open whatsapp web
+User: open gmail
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 11/12/2021 22:58:11

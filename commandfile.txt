@@ -1,0 +1,56 @@
+This is the commandfile of this AI project. 
+M.A.A.Y.A. stand for My Assistant And Young Android. 
+This is an A.I. program written mainly in python. 
+The program associated with this file you are reading is just a basic form of this project that will run on your local machine and not on the internet.
+Created by Shivraj Anand.
+email :- shivrajanand022002@gmail.command
+instagram :- https://www.instagram.com/shivraj.anand.ai/
+
+I started this project during the starting days of my college in 2021.
+
+
+FILENAME:- main.py
+This is the main file which actually runs as human-AI-Interface
+#########################################################
+
+********************************************************************************************************************************
+********************************************************************************************************************************
+
+FILENAME:- speakcommand.py
+This file contains all functions that helps in voice input and output.
+#########################################################
+speak() :- turns text to audio.
+printvoices() :- prints all the voices available in device.
+takeCommand() :- this function takes voice input and converts it to string outputs.
+
+********************************************************************************************************************************
+********************************************************************************************************************************
+
+FILENAME:- functions.py
+This file contains all miscellaneous functions.
+#########################################################
+wishme():- This command wishes the user according to the present time
+present_date_time():- This function returns present date & time
+
+********************************************************************************************************************************
+********************************************************************************************************************************
+
+FILENAME:- internet_search.py
+This file contains all the internet searching related functions and modules
+Note that the developer has set the default browser as chrome
+#########################################################
+wikisearch():- this function takes voice query as input and return wikipedia search summary as output in 2 sentences.
+i_search():- this will search the query passed on chrome browser.
+********************************************************************************************************************************
+********************************************************************************************************************************
+
+FILENAME:- introduce.py
+This file contains function to introduce the A.I. Voice 
+#########################################################
+introduce():- this function speaks out the introduction of M.A.A.Y.A.
+********************************************************************************************************************************
+********************************************************************************************************************************
+
+
+
+IGNORE-FILE:- test.py, commandfile.txt, logfile.txt
