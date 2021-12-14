@@ -392,3 +392,24 @@ User: open gmail
 User: shutdown maiya
 M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
 Closing: 11/12/2021 22:58:11
+
+
+
+
+ ***************************************************************************** 
+Starting: 14/12/2021 18:27:49
+User: play music
+User: shut down my
+User: shut down my
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 14/12/2021 18:28:19
+
+
+
+
+ ***************************************************************************** 
+Starting: 14/12/2021 18:41:41
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 14/12/2021 18:41:51

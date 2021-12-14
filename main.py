@@ -72,7 +72,7 @@ if __name__ == '__main__':
 
         elif "play music" in query:
             music_dir = "C:\\Users\\Dell\\Desktop\\Coding\\python\\maaya\\Music"
-            songs = os.listdir(music_dir)
+            songs = os.listdir("Music")
             # print(songs)
             play_random = random.randint(0, (len(music_dir) - 1))
             os.startfile(os.path.join(music_dir, songs[play_random]))
