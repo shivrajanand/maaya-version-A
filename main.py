@@ -5,6 +5,7 @@ from internet_search import *
 from authentication import *
 from security_protocol import *
 import random
+from Music.playmusic import *
 
 if __name__ == '__main__':
     check = authentication()
@@ -71,12 +72,10 @@ if __name__ == '__main__':
             i_search(query)
 
         elif "play music" in query:
-            music_dir = "C:\\Users\\Dell\\Desktop\\Coding\\python\\maaya\\Music"
-            songs = os.listdir("Music")
-            # print(songs)
-            play_random = random.randint(0, (len(music_dir) - 1))
-            os.startfile(os.path.join(music_dir, songs[play_random]))
+            play_music()
 
+        elif "show all available songs" in query:
+            print_music_available()
 
         elif "open youtube" in query:
              webbrowser.get("chrome").open_new("youtube.com")
