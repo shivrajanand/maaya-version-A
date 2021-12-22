@@ -440,3 +440,13 @@ User: show all available songs
 User: shutdown maiya
 M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
 Closing: 20/12/2021 20:12:23
+
+
+
+
+ ***************************************************************************** 
+Starting: 22/12/2021 17:42:50
+User: play music
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 22/12/2021 17:43:07
