@@ -450,3 +450,48 @@ User: play music
 User: shutdown maiya
 M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
 Closing: 22/12/2021 17:43:07
+
+
+
+
+ ***************************************************************************** 
+Starting: 22/12/2021 17:50:07
+User: none
+User: music play music play music
+User: none
+User: down maya
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 22/12/2021 17:50:50
+
+
+
+
+ ***************************************************************************** 
+Starting: 29/12/2021 19:06:05
+
+
+
+
+ ***************************************************************************** 
+Starting: 29/12/2021 19:16:45
+User: introduce yourself
+M.A.A.Y.A: Introduction
+User: search on internet bpmc madhepura
+User: search internet b p m c e madhepura
+User: shutdown
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 29/12/2021 19:17:56
+
+
+
+
+ ***************************************************************************** 
+Starting: 29/12/2021 19:29:23
+User: play music
+User: none
+User: are you dumb
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 29/12/2021 19:30:16
