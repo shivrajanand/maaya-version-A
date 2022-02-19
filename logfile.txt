@@ -538,3 +538,15 @@ User: shutdown monu
 User: shutdown maiya
 M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
 Closing: 10/02/2022 23:01:43
+
+
+
+
+ ***************************************************************************** 
+Starting: 19/02/2022 16:58:35
+User: search from wikipedia artificial intelligence
+User: introduce yourself
+M.A.A.Y.A: Introduction
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 19/02/2022 17:00:15

@@ -14,9 +14,9 @@ if __name__ == '__main__':
         speak("Authentication successfull")
 
     else:
-        speak("Authentication unsuccessful. Unauthorized user detected. Initiating security protocols.")
-        print("\n"*100)
-        print("UNAUTHORIZED USER! Starting Security Alarm")
+        # speak("Authentication unsuccessful. Unauthorized user detected. Initiating security protocols.")
+        # print("\n"*100)
+        # print("UNAUTHORIZED USER! Starting Security Alarm")
         unautorizedaccess()
         quit()  #authorization failed so AI System closed
 
