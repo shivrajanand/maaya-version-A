@@ -550,3 +550,70 @@ M.A.A.Y.A: Introduction
 User: shutdown maiya
 M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
 Closing: 19/02/2022 17:00:15
+
+
+
+
+ ***************************************************************************** 
+Starting: 25/02/2022 20:24:37
+User: introduce yourself
+M.A.A.Y.A: Introduction
+User: search wikipedia artificial intelligence
+User: search from wikipedia artificial intelligence
+User: search the internet lata mangeshkar
+User: search internet lata mangeshkar
+User: none
+User: play music
+User: play music
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 25/02/2022 20:27:55
+
+
+
+
+ ***************************************************************************** 
+Starting: 26/02/2022 23:49:19
+User: i am feeling bored
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 26/02/2022 23:49:42
+
+
+
+
+ ***************************************************************************** 
+Starting: 26/02/2022 23:51:05
+User: introduce offer
+User: introduce yourself
+M.A.A.Y.A: Introduction
+User: none
+User: play music
+User: play music
+User: none
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 26/02/2022 23:52:27
+
+
+
+
+ ***************************************************************************** 
+Starting: 27/02/2022 14:14:55
+User: introduce yourself
+M.A.A.Y.A: Introduction
+User: play music
+User: none
+User: search from wikipedia bpmc in madhepura
+
+
+
+
+ ***************************************************************************** 
+Starting: 09/03/2022 12:35:11
+User: introduce yourself
+M.A.A.Y.A: Introduction
+User: play music
+User: shutdown maiya
+M.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!
+Closing: 09/03/2022 12:36:11

@@ -85,9 +85,6 @@ if __name__ == '__main__':
              webbrowser.get("chrome").open_new("https://web.whatsapp.com/")
         elif "open gmail" in query:
              webbrowser.get("chrome").open_new("https://mail.google.com/mail/u/0/#inbox")
-
-
-
         else:
             print()
     
