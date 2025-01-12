@@ -4,7 +4,6 @@ from introduce import *
 from internet_search import *
 from authentication import *
 from security_protocol import *
-import random
 from Music.playmusic import *
 
 if __name__ == '__main__':
@@ -21,10 +20,10 @@ if __name__ == '__main__':
         quit()  #authorization failed so AI System closed
 
 
-    print("MAAYA ACTIVATING..........................")
-    speak("ACTIVATING MAAYA SYSTEM....")
+    print("MAYA ACTIVATING..........................")
+    speak("ACTIVATING MAYA SYSTEM....")
     print("\n"*100)
-    speak("MAAYA SYSTEM ACTIVATED....")
+    speak("MAYA SYSTEM ACTIVATED....")
     print("**********************    M.A.A.Y.A. Activated    **********************")
     wishme()
 
@@ -43,8 +42,8 @@ if __name__ == '__main__':
         logfile.write(query)
 
         ########### Closing AI system code for system ###########
-        if "shutdown maiya" in query:
-            speak("Goodbye boss! Shutting down MAAYA System!")
+        if "shutdown the system" in query:
+            speak("Goodbye boss! Shutting down MAYA System!")
 
             logfile.write("\nM.A.A.Y.A.: Goodbye boss! Shutting down MAAYA System!")
             logfile.write("\nClosing: ")

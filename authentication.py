@@ -2,8 +2,11 @@ from speakcommand import *
 import pwinput
 
 def authentication():
-    password = "hithisisshiva"
+    password = "mypass"
     print("Enter your password\n")
+    pass
+    pass
+    pass
     speak("please authenticate yourself")
     #code = getpass("Enter here: ", stream="*")
     code = pwinput.pwinput(mask="*")
